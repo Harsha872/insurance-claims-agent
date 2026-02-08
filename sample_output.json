@@ -1,0 +1,16 @@
+{
+  "extractedFields": {
+    "Policy Number": "CONTACT",
+    "Policyholder Name": "(First, Middle, Last) INSURED'S MAILING ADDRESS",
+    "Date of Loss": "AND TIME",
+    "Location": "POLICE OR FIRE DEPARTMENT CONTACTED",
+    "Estimated Damage": "WHERE CAN VEHICLE BE SEEN?: WHEN CAN VEHICLE BE SEEN?:",
+    "Description": "Accident described in FNOL",
+    "Asset Type": "Vehicle",
+    "Asset ID": "OWNER'S NAME AND ADDRESS (Check if same as insured) P P H R O IM N A E R # Y HOME BUS CELL P S H EC O O N N E D # ARY HOME BUS CELL",
+    "Claim Type": "injury"
+  },
+  "missingFields": [],
+  "recommendedRoute": "Specialist Queue",
+  "reasoning": "Claim involves injury"
+}
